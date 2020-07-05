@@ -19,7 +19,7 @@
 #   * Deleted first line "#!/usr/bin/ksh".  Diagnosing the Bourne shell instead.
 #   * Deleted the � characters which seem to be spurious (?)
 #=======================================================================================================================================
-# Ben Moyes / Derek Moyes: Sun Jul 05:
+# Ben Moyes / Derek Moyes: Sun Jul 05 02:43 CDT:
 #   * Cleaned up erroneous HTML characters from the site " https://www.cyberciti.biz/faq/linux-find-out-raspberry-pi-gpu-and-arm-cpu-temperature-command/
  
     echo -e "\n"
