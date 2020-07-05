@@ -2,4 +2,4 @@
 
 ## Pi:
 ### sensors.sh
-Simple temperature monitor for Raspberry Pi.
+Simple temperature display for Raspberry Pi.
